@@ -1,0 +1,5 @@
+[default]
+entity = a1561250506
+project = yolov5
+base_url = https://api.wandb.ai
+

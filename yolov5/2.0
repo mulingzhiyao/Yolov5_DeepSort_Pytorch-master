@@ -1,0 +1,19 @@
+Looking in indexes: https://mirrors.ustc.edu.cn/pypi/web/simple
+Collecting pycocotools
+  Downloading https://mirrors.bfsu.edu.cn/pypi/web/packages/85/1a/f3f95a5c994be2b554f370ac314b034d43d82c69be3fd40fabed5cfd5347/pycocotools-2.0.7-cp38-cp38-win_amd64.whl (85 kB)
+     ---------------------------------------- 85.3/85.3 kB 1.2 MB/s eta 0:00:00
+Requirement already satisfied: matplotlib>=2.1.0 in e:\software\anaconda\envs\yolov5\lib\site-packages (from pycocotools) (3.7.4)
+Requirement already satisfied: numpy in e:\software\anaconda\envs\yolov5\lib\site-packages (from pycocotools) (1.24.4)
+Requirement already satisfied: contourpy>=1.0.1 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (1.1.1)
+Requirement already satisfied: cycler>=0.10 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (4.49.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (1.4.5)
+Requirement already satisfied: packaging>=20.0 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (23.2)
+Requirement already satisfied: pillow>=6.2.0 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (10.2.0)
+Requirement already satisfied: pyparsing>=2.3.1 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (3.1.1)
+Requirement already satisfied: python-dateutil>=2.7 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (2.8.2)
+Requirement already satisfied: importlib-resources>=3.2.0 in e:\software\anaconda\envs\yolov5\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (6.1.1)
+Requirement already satisfied: zipp>=3.1.0 in e:\software\anaconda\envs\yolov5\lib\site-packages (from importlib-resources>=3.2.0->matplotlib>=2.1.0->pycocotools) (3.17.0)
+Requirement already satisfied: six>=1.5 in e:\software\anaconda\envs\yolov5\lib\site-packages (from python-dateutil>=2.7->matplotlib>=2.1.0->pycocotools) (1.16.0)
+Installing collected packages: pycocotools
+Successfully installed pycocotools-2.0.7
